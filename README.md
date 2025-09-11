@@ -23,7 +23,7 @@ Geometric-DL/
 │   │   ├── clustering.py
 │   │   └── utils.py
 │   ├── gcn/
-│   │   ├── layers.py
+│   │   ├── models.py
 │   │   ├── train.py
 │   │   └── utils.py
 │   └── visualization/
@@ -78,8 +78,8 @@ print(labels)
 ## 📚 Roadmap
 
 - [x] Basic spectral clustering implementation
-- [ ] GCN from scratch
-- [ ] Graph attention networks (GAT)
+- [x] GCN from scratch
+- [x] Graph attention networks (GAT)
 - [ ] Real-world datasets (Cora, Citeseer)
 - [ ] Advanced visualization layouts
 
